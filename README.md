@@ -1,6 +1,7 @@
-#Video Action Classification
+# Video Action Classification
 
  **about project:**
+ 
  video classification using the UCF101 and kinetics-700 action recognition dataset.
  
  **dataset_links**
@@ -17,11 +18,11 @@
             'Billiards','BlowDryHair','BlowingCandles','BodyWeightSquats','Bowling',
             'BoxingPunchingBag','BoxingSpeedBag','BreastStroke','BrushingTeeth']
 
-  We used the 2 datasets to make a prediction but used ucf101 for production.
+ - We used the 2 datasets to make a prediction but used ucf101 for production.
   
-  We makw many traials to get the final results.
+ * We makw many traials to get the final results.
   
-  Deploy tensorflow model using flask.
+ + Deploy tensorflow model using flask.
   
   **OUTPUT**
   https://github.com/azzaelnaggar/action_classification/issues/1#issue-1514103394
