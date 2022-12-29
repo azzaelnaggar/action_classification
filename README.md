@@ -11,7 +11,7 @@
   https://www.tensorflow.org/datasets/catalog/ucf101
   
   
-  ==>Selected classes from ucf101 are
+  ### Selected classes from ucf101 are
   
   ['ApplyEyeMakeup','ApplyLipstick','Archery','BabyCrawling','BalanceBeam','BandMarching',
             'BaseballPitch','BasketballDunk','Basketball','BenchPress','Biking',
