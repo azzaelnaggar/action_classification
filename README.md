@@ -25,7 +25,7 @@
  + Deploy tensorflow model using flask.
   
   **OUTPUT**
-  https://github.com/azzaelnaggar/action_classification/issues/1#issue-1514103394
+ ![Image](output.png)
   
   
   
