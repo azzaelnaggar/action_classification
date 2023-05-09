@@ -20,7 +20,7 @@
 
  - We used the 2 datasets to make a prediction but used ucf101 for production.
   
- * We makw many traials to get the final results.
+ * We make many traials to get the final results.
   
  + Deploy tensorflow model using flask.
   
